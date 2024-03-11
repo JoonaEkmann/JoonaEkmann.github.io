@@ -1,0 +1,17 @@
+fieldset {
+    background-color: darkblue;
+    color: rgb(255, 255, 255);
+    border-color: rgb(208, 207, 207);
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: double;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+th {
+    text-align: center;
+    letter-spacing: 10px;
+    white-space: nowrap;
+}
